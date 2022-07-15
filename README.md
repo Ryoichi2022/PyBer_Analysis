@@ -20,7 +20,7 @@ In addition, using the four-month data from January 1, 2019 to April 28, 2019, a
 ### Results of Analysis
 The total rides and the total drivers are by far largest in the urban cities. Naturally, the urban drivers earned more, or $39,854 in total, than those in suburban ($19,356) or those in rural cities ($4,328). However, both the average fare per ride and average fare per driver are highest in rural cities of all city types. Especially, a significant disparity exists in the average fare per driver. Drivers in rural cities earned three times more than those in urban cities.
 
-In addition, the line chart demonstrated similar ups and downs in total daily fare among three city types regardless of the total fare level.
+In addition, the line chart demonstrated similar ups and downs in total fare among three city types regardless of the total fare level.
 
 ## 3. Summary – Business recommendations
 Based on the analysis, the following recommendations would be presented.
