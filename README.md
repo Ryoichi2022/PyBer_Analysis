@@ -29,7 +29,7 @@ Based on the analysis, the following recommendations would be presented.
 Some drivers could be moved from the urban cities to the rural or suburban cities. Based on a closer review of the data, it was found that the total rides were only 1,625 while there were 2,405 drivers in the urban cities. The drivers may not have operated fully.
 
 ### Reconsideration of Fares
-The fare in the urban cities could be reconsidered so that the gaps in the average fare per ride and average fare per driver will be lowered. In urban areas, rides may tend to be shorter than in suburban and rural areas. If extra fare could be charged to those passengers who are going to move very short distance, the average fare will improve in the urban cities.
+The fare in the urban cities could be reconsidered so that the gaps in the average fare per ride and average fare per driver will be lowered. In urban cities, rides may tend to be shorter than in suburban and rural areas. If extra fare could be charged to those passengers who are going to move very short distance, the average fare will improve in the urban cities.
 
 ### Data for Further Analysis
 In the provided files, ride data did not include distance, which is expected to affect the fare for rides. By obtaining distance data, fare per mile can be compared among type of city and will be useful to determine whether the fares are reasonable in each city.
