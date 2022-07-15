@@ -22,7 +22,7 @@ The total rides and the total drivers are by far largest in the urban cities. Na
 
 In addition, the line chart demonstrated similar ups and downs in total fare among three city types regardless of the total fare level.
 
-## 3. Summary – Business recommendations
+## 3. Summary – Business Recommendations
 Based on the analysis, the following recommendations would be presented.
 
 ### Shift of Drivers to Rural Cities
