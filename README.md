@@ -6,7 +6,7 @@ The purpose of the project was to perform an exploratory analysis on data regard
 
 ## 2. Results
 ### Data to Be Analyzed
-Data was obtained in two csv files. One contained driver counts in each city with designation of type of city (city_data). The other was a summary of 2,375 rides during the period from January 1, 2019 through May 8, 2019. Each ride record included ride ID, date, fare, and city (ride_data).
+Data was obtained in two csv files. One contained driver counts in each city with designation of type of city (city_data.csv). The other was a summary of 2,375 rides during the period from January 1, 2019 through May 8, 2019. Each ride record included ride ID, date, fare, and city (ride_data.csv).
 
 ### Procedures of Analysis
 Two files were combined based on city for further analysis. Then, the data was summarized by type of city as follows:
