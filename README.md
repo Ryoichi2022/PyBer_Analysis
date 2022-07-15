@@ -13,7 +13,7 @@ Two files were combined based on city for further analysis. Then, the data was s
 
 ![](https://github.com/Ryoichi2022/PyBer_Analysis/blob/main/PyBer_summary_table.PNG)
 
-In addition, using the four-month data from January 1, 2019 to April 28, 2019, a line chart was depicted for the total of daily fare in each type of city as shown below.
+In addition, using the four-month data from January 1, 2019 to April 28, 2019, a line chart was depicted for the fare total on a weekly basis in each type of city as shown below.
 
 ![](https://github.com/Ryoichi2022/PyBer_Analysis/blob/main/PyBer_fare_summary.png)
 
